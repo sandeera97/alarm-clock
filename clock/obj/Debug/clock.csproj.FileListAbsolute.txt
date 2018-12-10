@@ -1,0 +1,9 @@
+c:\users\sandeera\documents\visual studio 2012\Projects\clock\clock\bin\Debug\clock.exe.config
+c:\users\sandeera\documents\visual studio 2012\Projects\clock\clock\bin\Debug\clock.exe
+c:\users\sandeera\documents\visual studio 2012\Projects\clock\clock\bin\Debug\clock.pdb
+c:\users\sandeera\documents\visual studio 2012\Projects\clock\clock\obj\Debug\clock.csprojResolveAssemblyReference.cache
+c:\users\sandeera\documents\visual studio 2012\Projects\clock\clock\obj\Debug\clock.Form1.resources
+c:\users\sandeera\documents\visual studio 2012\Projects\clock\clock\obj\Debug\clock.Properties.Resources.resources
+c:\users\sandeera\documents\visual studio 2012\Projects\clock\clock\obj\Debug\clock.csproj.GenerateResource.Cache
+c:\users\sandeera\documents\visual studio 2012\Projects\clock\clock\obj\Debug\clock.exe
+c:\users\sandeera\documents\visual studio 2012\Projects\clock\clock\obj\Debug\clock.pdb
